@@ -1,2 +1,2 @@
 # starter-web
-Mon Joli Projet
+Mon joli Projet
