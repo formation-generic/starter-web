@@ -1,3 +1,5 @@
 ligne1
 ligne2
-J modifie la ligne 3
+ligne3 qui apporte la solution
+Je modifie la ligne 3 dans master
+Je modifie la ligne 3
